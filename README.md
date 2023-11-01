@@ -1,2 +1,3 @@
 # findtopcontributor
-This is a python script that fetches the top contributor of all the github repositories you provide it. Can be helpful at times
+This is a python script that fetches the top contributor of all the github repositories you provide it. Can be helpful at times.
+The script will return the github usernames of top contributor of the repos.
